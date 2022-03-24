@@ -1,0 +1,13 @@
+.container-circle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    width: 44.54px;
+    height: 44.54px;
+    border-radius: 50%;
+    border: 5.56757px solid #FFDE03;
+}

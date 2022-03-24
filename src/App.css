@@ -1,6 +1,4 @@
-#App {
-    display: flex;
+.App {
     align-items: center;
     justify-content: center;
-    background: #E5E5E5;
 }

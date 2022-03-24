@@ -1,0 +1,13 @@
+.square {
+    width: 89.08px;
+    height: 89.08px;
+    background: #FF0266;
+    border: 5.56757px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.active {
+    background: #0336FF;
+}

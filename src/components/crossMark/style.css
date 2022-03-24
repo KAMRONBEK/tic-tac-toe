@@ -1,0 +1,23 @@
+.container-cross {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.right {
+    background-color: #fff;
+    width: 44.54px;
+    height: 5.57px;
+    transform: rotate(45deg);
+    border-radius: 15px;
+}
+
+.left {
+    background-color: #fff;
+    width: 44.54px;
+    height: 5.57px;
+    margin-top: -5.57px;
+    transform: rotate(-45deg);
+    border-radius: 15px;
+}
